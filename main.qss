@@ -1,0 +1,3 @@
+QDialogButton {
+   background-color: red;
+}
